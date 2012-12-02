@@ -2,7 +2,6 @@ lyn
 ===
 
 LynTalk - WebSockets Demo
-A Clojure project to accompany a lightning tlak.
 
 ## Usage
 
